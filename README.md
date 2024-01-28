@@ -19,7 +19,7 @@ pip install pandas numpy matplotlib
 ## Getting Started
 
 - Clone the repository:
-git clone https://github.com/yourusername/yourrepository.git
+git clone https://github.com/hunainmuneer/Risk-and-Returns
 cd your repository
 
 - Open the Jupyter Notebook: sharpe_ratio_analysis.ipynb
