@@ -13,8 +13,7 @@ Ensure you have the necessary Python libraries installed before running the Jupy
 - pandas
 - NumPy
 - matplotlib
-
-```bash
+- ```bash
 pip install pandas numpy matplotlib
 
 ## Getting Started
