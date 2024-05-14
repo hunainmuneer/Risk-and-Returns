@@ -15,17 +15,14 @@ In this analysis, we'll calculate the Sharpe Ratio for two tech giants, Amazon a
 Ensure you have the necessary Python libraries installed before running the Jupyter Notebook:
 
 - pandas
-- NumPy
+- numpy
 - matplotlib
 
-pip install pandas numpy matplotlib
+```pip install pandas numpy matplotlib```
 
 ## Getting Started
 
 - Clone the repository:
-git clone https://github.com/hunainmuneer/Risk-and-Returns
-cd your repository
-
 - Open the Jupyter Notebook: sharpe_ratio_analysis.ipynb
 - Run the notebook cells to perform the analysis.
 
@@ -42,6 +39,8 @@ The notebook covers the following key steps:
 - Computing the Sharpe Ratio, including the average difference in daily returns and the standard deviation of the return difference.
 - Visualizing and interpreting the results.
 
+## 
+
 ## Contributing
 
 If you'd like to contribute to this analysis or make improvements, follow these steps:
@@ -50,7 +49,6 @@ If you'd like to contribute to this analysis or make improvements, follow these 
 - Create a new branch: git checkout -b feature_branch
 - Make your changes and commit them: git commit -m 'Add new feature'
 - Push to the branch: git push origin feature_branch
-- Open a pull request.
 
 ## Acknowledgments
 
