@@ -1,8 +1,12 @@
 # Sharpe Ratio Analysis for Amazon and Facebook Stocks
 
+# Overview 
+
+An investment may make sense if we expect it to return more money than it costs. But returns are only part of the story because they are risky - there may be a range of possible outcomes. How does one compare different investments that may deliver similar results on average, but exhibit different levels of risks?
+
 ## Introduction
 
-In the world of finance, comparing different investments requires considering not only the expected returns but also the associated risks. One widely used metric for this purpose is the Sharpe Ratio, introduced by Professor William Sharpe in 1966. The Sharpe Ratio measures the additional return per unit of risk an investor could obtain by choosing one investment over another. A higher Sharpe Ratio indicates a more favourable risk-return profile.
+In the world of finance, comparing different investments requires considering not only the expected returns but also the associated risks. One widely used metric for this purpose is the Sharpe Ratio, introduced by Professor William Sharpe in 1966. The Sharpe Ratio measures the additional return per unit of risk an investor could obtain by choosing one investment over another. A higher Sharpe Ratio indicates a more favourable risk-return profile. You can read more about it [here](https://web.stanford.edu/~wfsharpe/art/sr/sr.htm)
 
 In this analysis, we'll calculate the Sharpe Ratio for two tech giants, Amazon and Facebook, using the S&P 500 as a benchmark. The Sharpe Ratio is typically calculated for a portfolio, but for simplicity, we'll use individual stocks and a stock index as a benchmark.
 
